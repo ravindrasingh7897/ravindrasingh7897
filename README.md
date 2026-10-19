@@ -7,7 +7,6 @@
 ### 🚀 About Me
 
 - 🔭 Currently working as an **SDE at [KuKi Solutions](https://kuki.co.in/)**, building GenAI-powered ESG & compliance platforms
-- 💼 All my work lives at **[my portfolio](https://www.rssdev.in/)**
 - 📫 Reach me at **ravindrasingh4632@gmail.com**
 
 <br/>
@@ -18,9 +17,6 @@
   </a>
   <a href="mailto:ravindrasingh4632@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://www.rssdev.in/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
 </div>
 
