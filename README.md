@@ -7,7 +7,7 @@
 ### 🚀 About Me
 
 - 🔭 Currently working as an **SDE at [KuKi Solutions](https://kuki.co.in/)**, building GenAI-powered ESG & compliance platforms
-- 💼 All my work lives at **[my portfolio](https://portfolio-neon-alpha-69.vercel.app/)**
+- 💼 All my work lives at **[my portfolio](https://www.rssdev.in/)**
 - 📫 Reach me at **ravindrasingh4632@gmail.com**
 
 <br/>
@@ -30,13 +30,6 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,fastapi,py,mongodb,mysql,redis,docker,tailwind,git,github" alt="Tech stack" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ravindrasingh7897&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=ravindrasingh7897&theme=tokyonight&hide_border=true" alt="GitHub streak" height="165"/>
 </div>
 
 </div>
